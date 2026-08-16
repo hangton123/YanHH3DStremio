@@ -1,0 +1,13 @@
+{
+  "name": "yanhh3d-stremio",
+  "version": "1.0.0",
+  "description": "YanHH3D Stremio Addon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cheerio": "^1.1.2"
+  }
+}
